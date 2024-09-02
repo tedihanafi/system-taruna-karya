@@ -80,6 +80,4 @@ Jika ingin berkontribusi terhadap project ini, baik untuk membuat *Issue*, usula
 #### Transaksi
 ![Transaksi](docs/images/dasboard.png)
 
-#### Report
 
-README dibuat dengan refrensi dari [@nafiesl](#)
