@@ -42,11 +42,11 @@ PHP >= 7.4 (dan memenuhi [server requirement Laravel 8.x](https://laravel.com/do
 12. Isi formulir installasi.
 13. Selesai, Anda akan login sebagai Super Admin.
 
-![Install Sistem Pembayaran SPP](docs/images/setup.png)
+![Install Sistem Pembayaran SPP](docs/images/login.png)
 
 ## Developer dan Kontributor
 
-Project ini dikembangkan oleh [Rizkhal Lamaau](https://github.com/rizkhal) dan para [kontributor](https://github.com/codegoen/spp-sekolahal/graphs/contributors).
+Project ini dikembangkan oleh [smk taruna karya](https://github.com/tedihanafi) dan para [kontributor](#).
 
 ## Ramuan
 
@@ -73,14 +73,13 @@ Project ini merupakan software free dan open source di bawah [lisensi MIT](LICEN
 
 ## Cara Berkontribusi
 
-Jika ingin berkontribusi terhadap project ini, baik untuk membuat *Issue*, usulan Fitur tambahan, *Pull Request*, maupun donasi, silakan melihat [panduan kontribusi](CONTRIBUTING.md).
+Jika ingin berkontribusi terhadap project ini, baik untuk membuat *Issue*, usulan Fitur tambahan, *Pull Request*, maupun donasi, silakan melihat [panduan kontribusi](#).
 
 ## Screenshots
 
 #### Transaksi
-![Transaksi](docs/images/transaction.png)
+![Transaksi](docs/images/dasboard.png)
 
 #### Report
-![Report](docs/images/report.png)
 
-README dibuat dengan refrensi dari [@nafiesl](https://github.com/nafiesl)
+README dibuat dengan refrensi dari [@nafiesl](#)
